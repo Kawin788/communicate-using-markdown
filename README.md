@@ -65,8 +65,8 @@ In this course, you will:
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
-
----
+37486419
+---SHP001.com
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
